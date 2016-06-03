@@ -1,0 +1,16 @@
+Program Example10;
+   Var v1 : Integer;
+
+   procedure p(v1 : integer);
+
+     begin
+
+     end;
+
+
+
+
+Begin
+     call p(v1);
+    
+End.

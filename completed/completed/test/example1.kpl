@@ -1,0 +1,6 @@
+program test;
+var
+    n: integer;
+begin
+    n:=3+2;
+end.
